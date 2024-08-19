@@ -1,0 +1,29 @@
+input {
+    border-radius: 5px;
+    padding: 2px;
+    background-color: rgb(222, 222, 222);
+}
+
+.ejercicio1 {
+    border: 7px solid plum;
+}
+
+.metodoAttr {
+    border: 7px solid rgb(44, 215, 184);
+    margin-top: 7px;
+}
+
+.cambiarProp {
+    border: 7px solid rgb(134, 83, 120);
+    margin-top: 7px;
+}
+
+.ejercicio2 {
+    border: 7px solid plum;
+    margin-top: 7px;
+
+}
+
+body {
+    background-color: black;
+}
